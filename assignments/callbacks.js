@@ -57,6 +57,8 @@ contains('Gum', items, (test) => {console.log(test)})
 /* STRETCH PROBLEM */
 
 // function removeDuplicates(array, cb) {
+//   cb()
+// }
 //   // removeDuplicates removes all duplicate values from the given array.
 //   // Pass the duplicate free array to the callback function.
 //   // Do not mutate the original array.
