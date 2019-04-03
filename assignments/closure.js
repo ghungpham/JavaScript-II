@@ -1,6 +1,14 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
+const newVar = 347
 
+function modulo5() {
+    const mod = 5; 
+    return newVar % mod;
+}
+
+modulo5();
+console.log(modulo5());
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
